@@ -1,11 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54f3460d-d72f-450c-aedc-a58912900ad0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/CircleBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/CircleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/CircleOptionsSink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/Convert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/FillBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/FillController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/FillOptionsSink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/GlobalMethodHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/LineBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/LineController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/LineOptionsSink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/MapboxMapBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/MapboxMapController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/MapboxMapFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/MapboxMapOptionsSink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/MapboxMapsPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnCameraMoveListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnCircleTappedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnFillTappedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnInfoWindowTappedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnLineTappedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/OnSymbolTappedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/SymbolBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/SymbolController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android/src/main/java/com/mapbox/mapboxgl/SymbolOptionsSink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/Constants.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/Convert.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/Enums.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/Extensions.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/MapboxMapController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/MapboxMapFactory.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/MapboxMapOptionsSink.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/MapboxMapsPlugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/MapboxMapsPlugin.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/SwiftMapboxGlFlutterPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/Symbol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Classes/SymbolOptionsSink.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/mapbox_gl.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/cedarmaps.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/cedarmaps_map.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/cedarmaps_style.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/global.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/internal/authentication.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/internal/constants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenshot.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yPM4hy0XjOXeyYMSAyM7zV4u9F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f3460d-d72f-450c-aedc-a58912900ad0" name="Default Changelist" comment="" />
+      <created>1632148580940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632148580940</updated>
+    </task>
+    <servers />
   </component>
 </project>
